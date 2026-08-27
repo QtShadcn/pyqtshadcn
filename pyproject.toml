@@ -8,7 +8,8 @@ version = "0.1.0"
 description = "PyQt6 pure-Python adapter for the QtShadcn QML component library (no C++ build)."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [{ name = "QtShadcn" }]
 keywords = ["qt", "qml", "pyqt6", "shadcn", "ui", "components"]
 dependencies = [
